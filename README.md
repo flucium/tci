@@ -1,2 +1,2 @@
-# tci
+# TCI
 Trust Cryptography Infrastructure.
